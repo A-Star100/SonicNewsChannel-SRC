@@ -7,7 +7,7 @@ Remember that the **original APKs for all versions are available [here](https://
 
 Sonic Channel is a now-discontinued source of Sonic news. **Our mobile app is the main highlight of this repo, as it contains decompiled versions of every release.** If you're interested in getting the compiled versions, go [here](https://sites.google.com/view/sonicnews-snc/archive/welcome-to-the-archive). If you want to compile from source yourself (and/or make a custom version), go ahead! Try to add some originality if you're making a custom version, though.
 
-**Sonic News Channel and its app is discontinued. Do NOT expect updates of any sort for the website or the app.** **Sorry, iOS users! You can view how to run the app on iOS [here!](https://docs.google.com/document/d/1fgwrqEuuWo6Kuv1NomYp334UXKJdI82XCsFaRmh5X6o/edit?usp=sharing)**
+**Sonic News Channel and its app is discontinued (although I made one last version of the app in Kodular, much better than all the others, but) Do NOT expect future updates of any sort for the website (one last update) or the app.** **Sorry, iOS users! You can view how to run the app on iOS [here!](https://docs.google.com/document/d/1fgwrqEuuWo6Kuv1NomYp334UXKJdI82XCsFaRmh5X6o/edit?usp=sharing)**
 
 **:D**
 
