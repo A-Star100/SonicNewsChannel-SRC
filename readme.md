@@ -1,7 +1,7 @@
-# Hey there! Welcome to Sonic News Channel's Git repo!
+# Sonic News Channel on GitHub
 
 The following repository consists of **decompiled versions** of the Sonic News Channel source code.
-The app was made in a no-code environment (MIT App Inventor). But that doesn't mean I can't **decompile the APKs and save it in git!**
+The app was made in a no-code environment (MIT App Inventor and Kodular). But that doesn't mean I can't **decompile the APKs and save it in git!**
 
 Remember that the original APKs for all versions are available [here](https://sites.google.com/view/sonicnews-snc/other-ways-to-experience-our-website/sonic-channel-app-download), but the decompiled versions (at least for the legacy app) are all in GitHub :).
 
