@@ -16,3 +16,5 @@ the web browser lagged, so a mobile version of the site needed to be created.
 ## Ultimate app
 The ultimate app was built with Kodular, as an effort to start over on a new leaf. It included new features and a better UI. Kodular's WebViewer is more efficient but I've stuck with App
 Inventor or frameworks like Flutter for building my Android apps because they tend to be more lightweight and easier to use on both ends (however some Flutter packages are inefficient).
+
+However, this project was the first ever app I created without any curriculums or anything, independently. This small project paved the road for bigger projects of mine, like [SimpliPlay](https://simpliplay.netlify.app), and [MovieServer](https://aboutmovieserver.netlify.app), and was what fueled my creativity. Ever since I joined GitHub, my tech adventures have grown bigger and bigger. But it's nice to go back to simplicity sometimes.
